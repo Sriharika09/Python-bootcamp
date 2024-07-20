@@ -1,0 +1,27 @@
+dataTypes
+f string
+hello {name} you are
+x goes to market he'll buy 10 apples and 24 bananas ,8 oranges 
+cost of 1 apple is 15rs
+cost of 1 banana =4rs
+1 orange=5rs
+mother of x gave 700rs
+
+10*15+24*4+8*5
+
+
+mr z is selected for olympicshe is participating in swimmming compitition only one winner is selected among all the participants 
+and mr.x and mr.y are frnds of z mr.x is participating in batmenton 
+y is table tennis 
+acc to selection commetie the requirments are batmention
+1. height 140cm
+2. weight factors of 2
+3.body fat less than 12%
+acc to selection commetie the requirments are... table tennis 
+1. heigh 118cm-148cm
+2. weight factors of no. of medals worn by mr.z
+3. body fat 14%
+acc to previous history z participated in 14 games out of which he is having sucesses rate of 65%
+now right a program to check wether mr.x, mr.y, mr.z are
+
+
